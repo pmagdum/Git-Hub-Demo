@@ -6,6 +6,7 @@ public class GitHubClass {
 	{
 		System.out.println("Hi...");
 		System.out.println("From github to eclips..");
+		System.out.println("From  eclips to github ..");
 	}
 
 }
